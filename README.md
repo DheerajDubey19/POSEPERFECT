@@ -182,8 +182,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries, please contact [dheerajdubey600.com](mailto:your-email@example.com).
 
 ---
 
-This README file provides a comprehensive overview of the Pose Perfect project, its setup, and key functionalities. For further details, please refer to the project documentation and source code.
+This README file provides a comprehensive overview of the Pose Perfect project, its setup, and key functionalities. For further details, please refer to the project source code.
